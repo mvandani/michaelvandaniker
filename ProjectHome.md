@@ -1,0 +1,1 @@
+Heat Maps, Parallel Coordinate Plots, other information visualization techniques, and anything I feel like putting here.
